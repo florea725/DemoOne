@@ -5,6 +5,8 @@ public class GitHubDemoTwo {
 		System.out.println("My first github commit.....");
 		
 		System.out.println("I DID IT");
+		
+		System.out.println("PRACTICE");
 	}
 	
 	// you added new code and now you have to share with the team
